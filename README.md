@@ -1,2 +1,10 @@
-# clare-chioma
-Aspiring Devops Engineer with interest in linux system, Git workflow.
+# Hi,clare-chioma
+Devops learner focused on linux and Git practices.
+## Skills
+-linux
+-Git and GitHub
+-Bash scripting
+## Goals
+-Become a Devops Engineer
+
+
